@@ -159,9 +159,27 @@ export JAVA_HOME="`/usr/libexec/java_home`"
   "terminal.integrated.shell.osx": "zsh",
   "terminal.integrated.fontSize": 14,
   "editor.formatOnSave": true,
-  "editor.rulers": [100]
+  "editor.rulers": [80, 120],
+  "editor.cursorStyle": "block",
+  "editor.fontSize": 14,
+  "editor.renderIndentGuides": true,
+  "files.trimFinalNewlines": true
 }
 ```
+
+### Plugins
+
+- Prettier
+- YAML
+- Python
+- GitLens
+- Docker
+- Bracket Pair Colorizer
+- Markdown All in One
+- Material Icon Theme
+- Gi
+- shell-format
+- Vscode Google Translate
 
 ## Vim
 
