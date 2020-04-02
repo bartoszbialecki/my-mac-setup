@@ -180,6 +180,13 @@ export JAVA_HOME="`/usr/libexec/java_home`"
 - Gi
 - shell-format
 - Vscode Google Translate
+- Debugger for Chrome
+- ESLint
+- Path Intellisense
+- Auto Rename Tag
+- Auto Close Tag
+- ES7 React/Redux/GraphQL/React-Native snippets
+- npm Intellisense
 
 ## Vim
 
@@ -353,6 +360,22 @@ Command Line Developer Tools for Xcode
 
     brew cask install docker
 
+## Ngrok
+
+    brew cask install ngrok
+
+## Travis CI
+
+    sudo gem install travis --no-document
+
+## Yarn
+
+    brew install yarn
+
+## Heroku CLI
+
+    brew tap heroku/brew && brew install heroku
+
 ## Other Apps
 
 - 4k Video Downloader
@@ -397,56 +420,80 @@ Command Line Developer Tools for Xcode
 
 * [Focus To-Do](https://apps.apple.com/pl/app/focus-to-do-pomodoro-tasks/id1258530160?l=pl&mt=12)
 
-* [Free Ruler](https://apps.apple.com/pl/app/free-ruler/id1483172210?l=pl&mt=12)
+- FortiClient VPN
 
-* Google Chrome
+  `brew cask install forticlient`
+
+- [Free Ruler](https://apps.apple.com/pl/app/free-ruler/id1483172210?l=pl&mt=12)
+
+- Google Chrome
 
   `brew cask install google-chrome`
 
-* [HEIC Converter](https://apps.apple.com/pl/app/heic-converter/id1294126402?l=pl&mt=12)
+- [HEIC Converter](https://apps.apple.com/pl/app/heic-converter/id1294126402?l=pl&mt=12)
 
-* [Icon Set Creator](https://apps.apple.com/pl/app/icon-set-creator/id939343785?l=pl&mt=12)
+- [Icon Set Creator](https://apps.apple.com/pl/app/icon-set-creator/id939343785?l=pl&mt=12)
 
-* [IconKit](https://apps.apple.com/pl/app/iconkit/id507135296?l=pl&mt=12)
+- [IconKit](https://apps.apple.com/pl/app/iconkit/id507135296?l=pl&mt=12)
 
-* [Jump Desktop](https://apps.apple.com/pl/app/jump-desktop-rdp-vnc-fluid/id524141863?l=pl&mt=12)
+- ImageOptim
 
-* [Magnet](https://apps.apple.com/pl/app/magnet/id441258766?l=pl&mt=12)
+  `brew cask install imageoptim`
 
-* [Noizio](https://apps.apple.com/pl/app/noizio-focus-relax-sleep/id928871589?l=pl&mt=12)
+- Insomnia
 
-* OpenSim
+  `brew cask install insomnia`
+
+- iSimulator
+
+  `brew cask install isimulator`
+
+- [Jump Desktop](https://apps.apple.com/pl/app/jump-desktop-rdp-vnc-fluid/id524141863?l=pl&mt=12)
+
+- [Magnet](https://apps.apple.com/pl/app/magnet/id441258766?l=pl&mt=12)
+
+- [Noizio](https://apps.apple.com/pl/app/noizio-focus-relax-sleep/id928871589?l=pl&mt=12)
+
+- OpenSim
 
   `brew cask install opensim`
 
-* [Ora](https://apps.apple.com/pl/app/ora-simple-task-management/id1340501510?l=pl&mt=12)
+- [Ora](https://apps.apple.com/pl/app/ora-simple-task-management/id1340501510?l=pl&mt=12)
 
-* [Paste JSON as Code - quicktype](https://apps.apple.com/pl/app/paste-json-as-code-quicktype/id1330801220?l=pl&mt=12)
+- [Paste JSON as Code - quicktype](https://apps.apple.com/pl/app/paste-json-as-code-quicktype/id1330801220?l=pl&mt=12)
 
-* [Phiewer - Image Viewer](https://apps.apple.com/pl/app/phiewer-image-viewer/id1226444549?l=pl&mt=12)
+- [Phiewer - Image Viewer](https://apps.apple.com/pl/app/phiewer-image-viewer/id1226444549?l=pl&mt=12)
 
-* [Realm Browser](https://apps.apple.com/pl/app/realm-browser/id1007457278?l=pl&mt=12)
+- [Realm Browser](https://apps.apple.com/pl/app/realm-browser/id1007457278?l=pl&mt=12)
 
-* [Reeder 4](https://apps.apple.com/pl/app/reeder-4/id1449412482?l=pl&mt=12)
+- [Reeder 4](https://apps.apple.com/pl/app/reeder-4/id1449412482?l=pl&mt=12)
 
-* [Relax Melodies](https://apps.apple.com/pl/app/relax-melodies-sleep-sounds/id467103113?l=pl&mt=12)
+- Reflector 3
 
-* [Smart JSON Editor](https://apps.apple.com/pl/app/smart-json-editor/id1268962404?l=pl&mt=12)
+  `brew cask install reflector`
 
-* [SnippetsLab](https://apps.apple.com/pl/app/snippetslab/id1006087419?l=pl&mt=12)
+- [Relax Melodies](https://apps.apple.com/pl/app/relax-melodies-sleep-sounds/id467103113?l=pl&mt=12)
 
-* Sourcetree
+- SimPholders
+  
+    `brew cask install simpholders`
+
+- [Smart JSON Editor](https://apps.apple.com/pl/app/smart-json-editor/id1268962404?l=pl&mt=12)
+
+- [SnippetsLab](https://apps.apple.com/pl/app/snippetslab/id1006087419?l=pl&mt=12)
+
+- Sourcetree
 
   `brew cask install soutcetree`
 
-- Spotify
+* Spotify
 
   `brew cask install spotify`
 
-- Station
+* Station
 
   `brew cask install station`
 
-- [Timork](https://apps.apple.com/pl/app/timork-focus-timer/id1195964402?l=pl&mt=12)
+* [Timork](https://apps.apple.com/pl/app/timork-focus-timer/id1195964402?l=pl&mt=12)
 
-- [To MP3 Converter](https://apps.apple.com/pl/app/to-mp3-converter-free/id983472324?l=pl&mt=12)
+* [To MP3 Converter](https://apps.apple.com/pl/app/to-mp3-converter-free/id983472324?l=pl&mt=12)
