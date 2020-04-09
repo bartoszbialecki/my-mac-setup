@@ -103,11 +103,16 @@ plugins=(
     docker
     gitignore
     virtualenv
+    sudo
 )
 
 source $ZSH/oh-my-zsh.sh
 
 # User configuration
+
+alias zshconfig="code -n ~/.zshrc"
+alias updatezsh="source ~/.zshrc"
+alias diskusage="du -h -d1"
 
 # Preferred editor for local and remote sessions
 if [[ -n $SSH_CONNECTION ]]; then
@@ -187,6 +192,7 @@ export JAVA_HOME="`/usr/libexec/java_home`"
 - Auto Close Tag
 - ES7 React/Redux/GraphQL/React-Native snippets
 - npm Intellisense
+- Dash
 
 ## Vim
 
@@ -394,6 +400,14 @@ Command Line Developer Tools for Xcode
 
   `brew cask install brave-browser`
 
+- Carbon Copy Cloner
+
+  `brew cask install carbon-copy-cloner`
+
+- Charles
+
+  `brew cask install charles`
+
 - CheatSheet
 
   `brew cask install cheatsheet`
@@ -404,6 +418,10 @@ Command Line Developer Tools for Xcode
 
 * [ColorSlurp](https://apps.apple.com/pl/app/colorslurp/id1287239339?l=pl&mt=12)
 
+- Dash
+  
+    `brew cask install dash`
+
 * DeepL
 
   `brew cask install deepl`
@@ -411,6 +429,8 @@ Command Line Developer Tools for Xcode
 * Dropbox
 
   `brew cask install dropbox`
+
+- [EarMaster7](https://www.earmaster.com/downloads/free-versions.html)
 
 * [Elmedia Video Player](https://apps.apple.com/pl/app/elmedia-video-player/id1044549675?l=pl&mt=12)
 
@@ -430,15 +450,27 @@ Command Line Developer Tools for Xcode
 
   `brew cask install google-chrome`
 
+- Grammarly
+
+  `brew cask install grammarly`
+
 - [HEIC Converter](https://apps.apple.com/pl/app/heic-converter/id1294126402?l=pl&mt=12)
 
 - [Icon Set Creator](https://apps.apple.com/pl/app/icon-set-creator/id939343785?l=pl&mt=12)
 
 - [IconKit](https://apps.apple.com/pl/app/iconkit/id507135296?l=pl&mt=12)
 
+- ImageAlpha
+
+  `brew cask install imagealpha`
+
 - ImageOptim
 
   `brew cask install imageoptim`
+
+- iMazing
+  
+  `brew cask install imazing`
 
 - Insomnia
 
@@ -452,6 +484,10 @@ Command Line Developer Tools for Xcode
 
 - [Magnet](https://apps.apple.com/pl/app/magnet/id441258766?l=pl&mt=12)
 
+- NetSpot
+
+  `brew cask install netspot`
+
 - [Noizio](https://apps.apple.com/pl/app/noizio-focus-relax-sleep/id928871589?l=pl&mt=12)
 
 - OpenSim
@@ -460,9 +496,21 @@ Command Line Developer Tools for Xcode
 
 - [Ora](https://apps.apple.com/pl/app/ora-simple-task-management/id1340501510?l=pl&mt=12)
 
+- OverSight
+
+  `brew cask install oversight`
+
 - [Paste JSON as Code - quicktype](https://apps.apple.com/pl/app/paste-json-as-code-quicktype/id1330801220?l=pl&mt=12)
 
 - [Phiewer - Image Viewer](https://apps.apple.com/pl/app/phiewer-image-viewer/id1226444549?l=pl&mt=12)
+
+- Postman
+
+  `brew cask install postman`
+
+- Pusher
+
+  `brew cask install pusher`
 
 - [Realm Browser](https://apps.apple.com/pl/app/realm-browser/id1007457278?l=pl&mt=12)
 
@@ -473,6 +521,8 @@ Command Line Developer Tools for Xcode
   `brew cask install reflector`
 
 - [Relax Melodies](https://apps.apple.com/pl/app/relax-melodies-sleep-sounds/id467103113?l=pl&mt=12)
+
+- [Screen-O-Matic](https://screencast-o-matic.com/screen-recorder)
 
 - SimPholders
   
@@ -494,6 +544,24 @@ Command Line Developer Tools for Xcode
 
   `brew cask install station`
 
+- Sqlectron
+
+  `brew cask install sqlectron`
+
+- SQLiteStudio
+
+  `brew cask install sqlitestudio`
+
+- TablePlus
+
+  `brew cask install tableplus`
+
 * [Timork](https://apps.apple.com/pl/app/timork-focus-timer/id1195964402?l=pl&mt=12)
 
 * [To MP3 Converter](https://apps.apple.com/pl/app/to-mp3-converter-free/id983472324?l=pl&mt=12)
+
+- Wireshark
+
+  `brew cask install wireshark`
+
+- [yEd Graph Editor](https://www.yworks.com/products/yed)
