@@ -148,6 +148,12 @@ fi
 eval "$(pyenv virtualenv-init -)"
 
 export JAVA_HOME="`/usr/libexec/java_home`"
+
+# Configuration for virtualenv
+export WORKON_HOME=$HOME/.virtualenvs
+export VIRTUALENVWRAPPER_PYTHON=/usr/local/bin/python3
+export VIRTUALENVWRAPPER_VIRTUALENV=/usr/local/bin/virtualenv
+source /usr/local/bin/virtualenvwrapper.sh
 ```
 
 ## Visual Studio Code
@@ -328,6 +334,10 @@ Then run this command to git use this file
 
     git config --global --replace-all core.pager "less -F -X"
 
+### Git Workflow
+
+    brew install git-flow
+
 ## Java
 
     brew cask install java
@@ -419,8 +429,8 @@ Command Line Developer Tools for Xcode
 * [ColorSlurp](https://apps.apple.com/pl/app/colorslurp/id1287239339?l=pl&mt=12)
 
 - Dash
-  
-    `brew cask install dash`
+
+  `brew cask install dash`
 
 * DeepL
 
@@ -454,6 +464,8 @@ Command Line Developer Tools for Xcode
 
   `brew cask install grammarly`
 
+- [Hammerspoon](https://www.hammerspoon.org/)
+
 - [HEIC Converter](https://apps.apple.com/pl/app/heic-converter/id1294126402?l=pl&mt=12)
 
 - [Icon Set Creator](https://apps.apple.com/pl/app/icon-set-creator/id939343785?l=pl&mt=12)
@@ -469,7 +481,7 @@ Command Line Developer Tools for Xcode
   `brew cask install imageoptim`
 
 - iMazing
-  
+
   `brew cask install imazing`
 
 - Insomnia
@@ -525,12 +537,14 @@ Command Line Developer Tools for Xcode
 - [Screen-O-Matic](https://screencast-o-matic.com/screen-recorder)
 
 - SimPholders
-  
-    `brew cask install simpholders`
+
+  `brew cask install simpholders`
 
 - [Smart JSON Editor](https://apps.apple.com/pl/app/smart-json-editor/id1268962404?l=pl&mt=12)
 
 - [SnippetsLab](https://apps.apple.com/pl/app/snippetslab/id1006087419?l=pl&mt=12)
+
+- [SoundSource](https://www.rogueamoeba.com/soundsource/)
 
 - Sourcetree
 
