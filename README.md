@@ -392,7 +392,7 @@ Command Line Developer Tools for Xcode
 
     brew tap heroku/brew && brew install heroku
 
-## Other Apps
+## Other Apps & Tools
 
 - 4k Video Downloader
 
@@ -403,6 +403,10 @@ Command Line Developer Tools for Xcode
 - [Affinity Photo](https://apps.apple.com/pl/app/affinity-photo/id824183456?l=pl&mt=12)
 
 - [Amphetamine](https://apps.apple.com/pl/app/amphetamine/id937984704?l=pl&mt=12)
+
+- Android File Transfer
+
+  `brew cask install android-file-transfer`
 
 - [Be Focused](https://apps.apple.com/pl/app/be-focused-focus-timer/id973134470?l=pl&mt=12)
 
@@ -422,6 +426,10 @@ Command Line Developer Tools for Xcode
 
   `brew cask install cheatsheet`
 
+- chkrootkit
+
+  `brew install chkrootkit`
+
 * CleanMyMac X
 
   `brew cask install cleanmymac`
@@ -431,6 +439,10 @@ Command Line Developer Tools for Xcode
 - Dash
 
   `brew cask install dash`
+
+- Deadbolt
+
+  `brew cask install deadbolt`
 
 * DeepL
 
@@ -466,6 +478,10 @@ Command Line Developer Tools for Xcode
 
 - [Hammerspoon](https://www.hammerspoon.org/)
 
+- Handbrake
+
+  `brew cask install handbrake`
+
 - [HEIC Converter](https://apps.apple.com/pl/app/heic-converter/id1294126402?l=pl&mt=12)
 
 - [Icon Set Creator](https://apps.apple.com/pl/app/icon-set-creator/id939343785?l=pl&mt=12)
@@ -488,19 +504,35 @@ Command Line Developer Tools for Xcode
 
   `brew cask install insomnia`
 
+- [iPaste](https://apps.apple.com/app/id1056935452?mt=12)
+
 - iSimulator
 
   `brew cask install isimulator`
 
 - [Jump Desktop](https://apps.apple.com/pl/app/jump-desktop-rdp-vnc-fluid/id524141863?l=pl&mt=12)
 
+- [Loca Studio](https://apps.apple.com/app/id1465684707)
+
+- Lynis
+
+  `brew install lynis`
+
 - [Magnet](https://apps.apple.com/pl/app/magnet/id441258766?l=pl&mt=12)
+
+- [Monosnap](macappstores://itunes.apple.com/ru/app/monosnap/id540348655)
 
 - NetSpot
 
   `brew cask install netspot`
 
 - [Noizio](https://apps.apple.com/pl/app/noizio-focus-relax-sleep/id928871589?l=pl&mt=12)
+
+- [Nucleo](https://nucleoapp.com/)
+
+- Numi
+
+  `brew cask install numi`
 
 - OpenSim
 
@@ -513,6 +545,8 @@ Command Line Developer Tools for Xcode
   `brew cask install oversight`
 
 - [Paste JSON as Code - quicktype](https://apps.apple.com/pl/app/paste-json-as-code-quicktype/id1330801220?l=pl&mt=12)
+
+- [Patterns](https://apps.apple.com/us/app/patterns-the-regex-app/id429449079?mt=12)
 
 - [Phiewer - Image Viewer](https://apps.apple.com/pl/app/phiewer-image-viewer/id1226444549?l=pl&mt=12)
 
@@ -534,11 +568,19 @@ Command Line Developer Tools for Xcode
 
 - [Relax Melodies](https://apps.apple.com/pl/app/relax-melodies-sleep-sounds/id467103113?l=pl&mt=12)
 
+- rkhunter
+
+  `brew install rkhunter`
+
 - [Screen-O-Matic](https://screencast-o-matic.com/screen-recorder)
 
 - SimPholders
 
   `brew cask install simpholders`
+
+- Skitch
+
+  `brew cask install skitch`
 
 - [Smart JSON Editor](https://apps.apple.com/pl/app/smart-json-editor/id1268962404?l=pl&mt=12)
 
@@ -570,12 +612,22 @@ Command Line Developer Tools for Xcode
 
   `brew cask install tableplus`
 
+- The Unarchiver
+
+  `brew cask install the-unarchiver`
+
 * [Timork](https://apps.apple.com/pl/app/timork-focus-timer/id1195964402?l=pl&mt=12)
+
+- tldr
+
+  `brew install tldr`
 
 * [To MP3 Converter](https://apps.apple.com/pl/app/to-mp3-converter-free/id983472324?l=pl&mt=12)
 
 - Wireshark
 
   `brew cask install wireshark`
+
+- [Woodpecker](https://apps.apple.com/cn/app/woodpecker/id1333548463?mt=12)
 
 - [yEd Graph Editor](https://www.yworks.com/products/yed)
