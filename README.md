@@ -69,6 +69,11 @@ I have to then add this to my `~/.zshrc` file to supress warning from Powerlevel
 
     typeset -g POWERLEVEL9K_INSTANT_PROMPT=quiet
 
+## Fira Code Font
+
+    brew tap homebrew/cask-fonts
+    brew cask install font-fira-code
+
 ## My ~/.zshrc file
 
 ```zsh
@@ -199,6 +204,7 @@ source /usr/local/bin/virtualenvwrapper.sh
 - ES7 React/Redux/GraphQL/React-Native snippets
 - npm Intellisense
 - Dash
+- Draw.io Integration
 
 ## Vim
 
@@ -484,6 +490,8 @@ Command Line Developer Tools for Xcode
 
 - [HEIC Converter](https://apps.apple.com/pl/app/heic-converter/id1294126402?l=pl&mt=12)
 
+- [Hungrymark](https://apps.apple.com/pl/app/hungrymark/id1482778901?l=pl&mt=12)
+
 - [Icon Set Creator](https://apps.apple.com/pl/app/icon-set-creator/id939343785?l=pl&mt=12)
 
 - [IconKit](https://apps.apple.com/pl/app/iconkit/id507135296?l=pl&mt=12)
@@ -509,6 +517,10 @@ Command Line Developer Tools for Xcode
 - iSimulator
 
   `brew cask install isimulator`
+
+- jq
+
+  `brew install jq`
 
 - [Jump Desktop](https://apps.apple.com/pl/app/jump-desktop-rdp-vnc-fluid/id524141863?l=pl&mt=12)
 
@@ -623,6 +635,10 @@ Command Line Developer Tools for Xcode
   `brew install tldr`
 
 * [To MP3 Converter](https://apps.apple.com/pl/app/to-mp3-converter-free/id983472324?l=pl&mt=12)
+
+- Vysor
+
+  `brew cask install vysor`
 
 - Wireshark
 
